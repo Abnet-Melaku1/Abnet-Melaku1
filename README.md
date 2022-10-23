@@ -7,7 +7,7 @@ Full Stack Web Developer | Programmer
 Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
 
 * 🌍  I'm based in Dessie,Ethiopia
-* 🖥️  See my portfolio at [MyPortfolio](http://https://abnet-melaku.up.railway.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://abnet-melaku2.netlify.app/)
 * ✉️  You can contact me at [abnetmelaku20@gmail.com](mailto:abnetmelaku20@gmail.com)
 * 🧠  I'm learning Next Js
 
