@@ -9,7 +9,7 @@ Software developer with a proven problem solving ability , adapt in ever-changin
 * 🌍  I'm based in Dessie,Ethiopia
 * 🖥️  See my portfolio at [MyPortfolio](https://abnet-melaku2.netlify.app/)
 * ✉️  You can contact me at [abnetmelaku20@gmail.com](mailto:abnetmelaku20@gmail.com)
-* 🧠  I'm learning Next Js
+* 🧠  I'm learning Next Js and TypeScript
 
 ### Skills
 
