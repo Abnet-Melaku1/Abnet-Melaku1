@@ -6,10 +6,14 @@ Full Stack Developer | Programmer
 
 Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
 
-*   🌍  I'm based in Dessie,Ethiopia
-*   ✉️  You can contact me at [abnetmelaku20@gmail.com](mailto:abnetmelaku20@gmail.com)
-*   🚀  I'm currently working on [Updating my portfolio website](http://https://abnet-portfolio.vercel.app/)
-*   🧠  I'm learning Next JS & GraphQL### Skills 
+* 🌍  I'm based in Dessie,Ethiopia
+* ✉️  You can contact me at [abnetmelaku20@gmail.com](mailto:abnetmelaku20@gmail.com)
+* 🚀  I'm currently working on [Updating my portfolio website](http://https://abnet-portfolio.vercel.app/)
+* 🧠  I'm learning Next JS & GraphQL
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -33,14 +37,12 @@ Software developer with a proven problem solving ability , adapt in ever-changin
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/_abnet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Abnet-Melaku1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/abnet-melaku-6652b8242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/Abnet-Melaku1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet-Melaku1&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/_abnet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abnet-Melaku1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abnet-melaku-6652b8242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/Abnet-Melaku1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet-Melaku1&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
