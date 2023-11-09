@@ -7,9 +7,8 @@ Full Stack Developer | Programmer
 Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
 
 * 🌍  I'm based in Dessie,Ethiopia
-* ✉️  You can contact me at [abnetmelaku20@gmail.com](mailto:abnetmelaku20@gmail.com)
-* 🚀  I'm currently working on [Updating my portfolio website](https://abnet-portfolio.vercel.app/)
-* 🧠  I'm learning Next JS & GraphQL
+* ✉️  You can contact me at [dev.abnetmelaku@gmail.com](mailto:dev.abnetmelaku@gmail.com)
+* 🧠  I'm learning Next JS 13
 
 ### Skills
 
