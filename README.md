@@ -6,7 +6,7 @@ Full Stack Developer | Programmer
 
 Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
 
-* 🌍  I'm based in Addis Abab,Ethiopia
+* 🌍  I'm based in Addis Ababa,Ethiopia
 * ✉️  You can contact me at [dev.abnetmelaku@gmail.com](mailto:dev.abnetmelaku@gmail.com)
 * 🧠  I'm learning Next JS 14
 
