@@ -8,7 +8,7 @@ Software developer with a proven problem solving ability , adapt in ever-changin
 
 * 🌍  I'm based in Addis Ababa,Ethiopia
 * ✉️  You can contact me at [dev.abnetmelaku@gmail.com](mailto:dev.abnetmelaku@gmail.com)
-* 🧠  I'm learning Next JS 14
+* 🧠  I'm learning Next JS 15
 
 ### Skills
 
